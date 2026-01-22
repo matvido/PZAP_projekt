@@ -5,8 +5,3 @@ Ovaj projekt prikazuje prikupljanje, pretprocesiranje, integraciju i pohranu het
 ## Skupovi podataka
 - USGS Earthquakes GeoJSON feed: all_month.geojson (GeoJSON)
 - Popis glavnih gradova s koordinatama i populacijom (CSV)
-
-## Pokretanje
-1. Instaliraj ovisnosti:
-   ```bash
-   pip install -r requirements.txt
