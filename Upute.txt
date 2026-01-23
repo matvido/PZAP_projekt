@@ -1,0 +1,3 @@
+Projekt je implementiran kao Jupyter bilježnica i može se pokretati u Google Colabu ili lokalno u Jupyter Notebooku. Nije potrebno unaprijed pripremati ulazne CSV/GeoJSON datoteke jer aplikacija pri pokretanju automatski kreira potrebnu strukturu direktorija, preuzima skupove podataka s interneta te ih sprema u lokalne mape.
+
+Poveznica repozitorija koda: https://github.com/matvido/PZAP_projekt
